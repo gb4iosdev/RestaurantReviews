@@ -1,0 +1,10 @@
+{
+  "commitish" : "3.0.0",
+  "iOS" : [
+    {
+      "name" : "Locksmith",
+      "hash" : "98bb6ce461624c1f8ee7f4e45952d5aa2d6eaa665cf73142159dd17cdbc35777",
+      "swiftToolchainVersion" : "4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+    }
+  ]
+}
